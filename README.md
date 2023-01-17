@@ -10,5 +10,5 @@ But beside that I'll also link them here so you can have a overview of them in a
 ### WinSoftwareUpdate
 Auto update all of your installed softwares with WinGet.
 * [GitHub](https://github.com/rstolpe/WinSoftwareUpdate)
-* [PowerShell Gallery]()
-* [Blog]()
+* [PowerShell Gallery](https://www.powershellgallery.com/packages/WinSoftwareUpdate)
+* [Blog](https://stolpe.io/lets-auto-update-our-windows-softwares-with-powershell/)
