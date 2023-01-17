@@ -5,9 +5,9 @@ I do have many many PowerShell modules and scripts that I'll start to upload to 
 I'll publish them at my [blog](https://stolpe.io) and they will be also be published at [Twitter](https://twitter.com/rstolpes), [Linkedin](https://www.linkedin.com/in/rstolpe/) and [PowerShell Gallery](https://www.powershellgallery.com/profiles/rstolpe).  
 But beside that I'll also link them here so you can have a overview of them in a easy way.  
   
-## Module
-### Windows only
-#### WinSoftwareUpdate
+# Module
+## Windows only
+### WinSoftwareUpdate
 Auto update all of your installed softwares with WinGet.
 * [GitHub](https://github.com/rstolpe/WinSoftwareUpdate)
 * [PowerShell Gallery]()
