@@ -6,9 +6,20 @@ I'll publish them at my [blog](https://stolpe.io) and they will be also be publi
 But beside that I'll also link them here so you can have a overview of them in a easy way.  
   
 # Module
-## Windows only
+## Microsoft Windows only
+Only works at Microsoft Windows.
 ### WinSoftwareUpdate
-Auto update all of your installed softwares with WinGet.
+Auto update all of your installed softwares with WinGet.  
 * [GitHub](https://github.com/rstolpe/WinSoftwareUpdate)
 * [PowerShell Gallery](https://www.powershellgallery.com/packages/WinSoftwareUpdate)
 * [Blog](https://stolpe.io/lets-auto-update-our-windows-softwares-with-powershell/)
+
+### DeleteUserProfile
+With this module you can get information about what user profiles and when/if they are logged in on local or remote computers.  
+You can also delete user profiles on local or remote computers.
+* [GitHub](https://github.com/rstolpe/DeleteUserProfile)
+* [PowerShell Gallery](https://www.powershellgallery.com/packages/DeleteUserProfile)
+* [Blog](https://stolpe.io/delete-user-profiles-with-powershell/)
+
+## Cross plattform
+Works with cross plattform like Microsoft Windows, Linux and MacOS.
