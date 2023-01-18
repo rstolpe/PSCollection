@@ -9,14 +9,14 @@ But beside that I'll also link them here so you can have a overview of them in a
 ## Microsoft Windows only
 Only works at Microsoft Windows.
 
-- [WinSoftwareUpdate](https://github.com/rstolpe/WinSoftwareUpdate)
+- [WinSoftwareUpdate](https://github.com/rstolpe/WinSoftwareUpdate)  
     Auto update all of your installed softwares with WinGet. 
-- [DeleteUserProfile](https://github.com/rstolpe/DeleteUserProfile)
+- [DeleteUserProfile](https://github.com/rstolpe/DeleteUserProfile)  
     With this module you can get information about what user profiles and when/if they are logged in on local or remote computers.  
     You can also delete user profiles on local or remote computers.
 
 ## Cross plattform
 Works with cross plattform like Microsoft Windows, Linux and MacOS.  
 
-- [MaintainModule](https://github.com/rstolpe/MaintainModule)
+- [MaintainModule](https://github.com/rstolpe/MaintainModule)  
     This module let you maintain/update your installed PowerShell modules in a easy way
