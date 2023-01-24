@@ -28,9 +28,12 @@ Only works at Microsoft Windows.
   
 - [MonitorInformation](https://github.com/rstolpe/MonitorInformation)
     Get information about local and remote monitors. Name, manufacturer, model, serial number, manufacturing date.
+  
+- [ConvertSID](https://github.com/rstolpe/ConvertSID)
+    Convert a SID to plain and readable text
 
 ## Cross platform
 Works with cross platform like Microsoft Windows, Linux and MacOS.  
-
+  
 - [MaintainModule](https://github.com/rstolpe/MaintainModule)  
     This module let you maintain/update your installed PowerShell modules in a easy way
