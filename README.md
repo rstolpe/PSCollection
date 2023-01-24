@@ -26,10 +26,10 @@ Only works at Microsoft Windows.
     With this module you can get information about what user profiles and when/if they are logged in on local or remote computers.  
     You can also delete user profiles on local or remote computers.  
   
-- [MonitorInformation](https://github.com/rstolpe/MonitorInformation)
+- [MonitorInformation](https://github.com/rstolpe/MonitorInformation)  
     Get information about local and remote monitors. Name, manufacturer, model, serial number, manufacturing date.
   
-- [ConvertSID](https://github.com/rstolpe/ConvertSID)
+- [ConvertSID](https://github.com/rstolpe/ConvertSID)  
     Convert a SID to plain and readable text
 
 ## Cross platform
